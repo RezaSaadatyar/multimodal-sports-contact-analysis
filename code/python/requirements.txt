@@ -1,0 +1,16 @@
+# To install these requirements:
+# cd multimodal-sports-contact-analysis/code/python
+# pip install -r requirements.txt
+
+ipython
+jupyter
+matplotlib
+numpy
+opencv-python
+pandas
+psutil
+scikit-learn
+scipy
+torch
+torchvision
+tqdm
