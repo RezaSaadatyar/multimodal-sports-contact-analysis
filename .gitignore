@@ -1,0 +1,40 @@
+# Raw and processed competition data
+data/raw/
+data/processed/
+*.mp4
+*.avi
+*.mov
+
+# Model checkpoints and generated outputs
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+
+# Python virtual environments
+remote-kernel/
+venv/
+.venv/
+env/
+.env/
+
+# Python caching and byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# IDE / Editor metadata
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
